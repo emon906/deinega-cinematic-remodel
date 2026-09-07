@@ -37,6 +37,7 @@ function Index() {
       <Services />
       <Projects />
       <BeforeAfter />
+      <Reels />
       <Testimonials />
       <About />
       <Contact />
