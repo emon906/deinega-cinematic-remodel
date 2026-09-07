@@ -5,6 +5,7 @@ import { Hero } from "@/components/site/Hero";
 import { Services } from "@/components/site/Services";
 import { Projects } from "@/components/site/Projects";
 import { BeforeAfter } from "@/components/site/BeforeAfter";
+import { Reels } from "@/components/site/Reels";
 import { Testimonials } from "@/components/site/Testimonials";
 import { About } from "@/components/site/About";
 import { Contact } from "@/components/site/Contact";
